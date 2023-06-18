@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cross-species on Steven Errington</title>
+    <link>http://stevenerrington.github.io/tags/cross-species/</link>
+    <description>Recent content in cross-species on Steven Errington</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://stevenerrington.github.io/tags/cross-species/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neurophysiological mechanisms of error monitoring in human and non-human primates</title>
+      <link>http://stevenerrington.github.io/2023_NRN/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://stevenerrington.github.io/2023_NRN/</guid>
+      <description>This review article explores the relationship between performance monitoring, frontal cortex function, and psychiatric disorders by discussing findings from studies on macaques and humans, highlighting the identification of specific neurons associated with error monitoring and proposing a theoretical framework that offers new insights into error signal computation in both species.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,116 @@
+baseURL: "http://stevenerrington.github.io/" 
+title: Steven Errington
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+social:
+    twitter: stevenerrington
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: About
+          url: /about/
+          weight: 1
+        - name: Research
+          url: /research/
+          weight: 2
+        - name: Papers
+          url: /Papers/
+          weight: 3
+
+
+params:
+    description: "Test update."
+    author: Steven Errington
+    googleAnalyticsID: ""
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: true
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    enableEmoji: true
+    profileMode:
+          enabled: true
+          title: Steven Errington
+          subtitle:  "Postdoctoral Research Associate | Neuroscience | Monosov Lab
+          <br><br>
+          
+          I am a postdoctoral fellow in the Monosov Lab at Washington University School of Medicine, studying the cortical and subcortical systems that control exploration and learning.
+          I combine behavioral studies in non-human primates with single-unit recordings, high-channel electrophysiology, and pharmacology.
+          Before moving to WUSTL, I was a PhD-student in the Schall lab at Vanderbilt University, studying how the medial frontal cortex contributes to cognitive control. <br><br>
+          "
+
+          imageUrl: "/headshot_photo.jpeg"
+          imageWidth: 170
+          imageHeight: 170
+          imageTitle: Steven Errington
+          buttons:
+            - name: About
+              url: /about/              
+            - name: Research
+              url: /research/
+            - name: Papers
+              url: /papers/
+    socialIcons:
+        - name: CV
+          url: "/cv.pdf"
+        - name: Email
+          url: "mailto:steven.errington@wustl.edu"
+        - name: Google Scholar
+          url: "https://scholar.google.com/citations?user=yktmfeUAAAAJ&hl=en"
+        - name: GitHub
+          url: "https://github.com/stevenerrington"
+        - name: Twitter
+          url: "https://twitter.com/stevenerrington"
+        - name: ResearchGate
+          url: "https://www.researchgate.net/profile/Steven-Errington"
+        - name: LinkedIn
+          url: "https://www.linkedin.com/in/stevenerrington/"
+          
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: true
+        hiddenInSingle: true
+    label:
+      text: "Steven Errington"
+      icon: /favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: xcode
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
+
+# max number of characters:
+# * title: 70
+# * description: 120–155
+# * summary: 265

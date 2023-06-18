@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>beta on Steven Errington</title>
+    <link>http://stevenerrington.github.io/tags/beta/</link>
+    <description>Recent content in beta on Steven Errington</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://stevenerrington.github.io/tags/beta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dissociation of medial frontal β-bursts and executive control</title>
+      <link>http://stevenerrington.github.io/2020_JNeurosci/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://stevenerrington.github.io/2020_JNeurosci/</guid>
+      <description>The finding of increased β-bursting over medial frontal cortex with movement cancellation in humans is difficult to reconcile with the finding of modulation too late to contribute to movement cancellation in medial frontal cortex of macaque monkeys. To obtain comparable measurement scales, we recorded electroencephalogram (EEG) over medial frontal cortex of macaques performing a stop signal (countermanding) task. We replicated the occurrence and modulation of β-bursts associated with the cancellation of movements, but we found that β-bursts occur too infrequently to account for observed stopping behavior. Unfortunately, this finding raises doubts whether β-bursts can be a causal mechanism of response inhibition, which impacts future applications in devices such as brain-machine interfaces.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Parkinson&#39;s disease on Steven Errington</title>
+    <link>http://stevenerrington.github.io/tags/parkinsons-disease/</link>
+    <description>Recent content in Parkinson&#39;s disease on Steven Errington</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://stevenerrington.github.io/tags/parkinsons-disease/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>D2-Like Receptor Expression in the Hippocampus and Amygdala Informs Performance on the Stop-Signal Task in Parkinson&#39;s Disease</title>
+      <link>http://stevenerrington.github.io/2021_JNeurosci/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://stevenerrington.github.io/2021_JNeurosci/</guid>
+      <description>While Parkinson&amp;rsquo;s disease (PD) is characteristically recognized for its motor symptoms, some patients develop impulsive and compulsive behaviors (ICBs), manifested as repetitive and excessive participation in reward-driven activities, including sex, gambling, shopping, eating, and hobbyism. Such cognitive alterations compel a consideration of response inhibition in PD. To investigate inhibitory control and assess the brain regions that may participate, we assessed PD patients using a single-blinded d-amphetamine (dAMPH) study, with [18F]fallypride positron emission topography (PET) imaging, and stop-signal task performance. We find a negative relationship between D2-like binding in the mesial temporal region and top-signal reaction time (SSRT), with greater BPND associated with a faster SSRT. These discoveries indicate a novel role for mesolimbic dopamine in response inhibition, and advocate for limbic regulation of action control in this clinical population.</description>
+    </item>
+    
+  </channel>
+</rss>

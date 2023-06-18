@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Papers on Steven Errington</title>
+    <link>http://stevenerrington.github.io/papers/</link>
+    <description>Recent content in Papers on Steven Errington</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://stevenerrington.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neurophysiological mechanisms of error monitoring in human and non-human primates</title>
+      <link>http://stevenerrington.github.io/2023_NRN/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://stevenerrington.github.io/2023_NRN/</guid>
+      <description>This review article explores the relationship between performance monitoring, frontal cortex function, and psychiatric disorders by discussing findings from studies on macaques and humans, highlighting the identification of specific neurons associated with error monitoring and proposing a theoretical framework that offers new insights into error signal computation in both species.</description>
+    </item>
+    
+    <item>
+      <title>Functional architecture of executive control and associated event-related potentials in macaques</title>
+      <link>http://stevenerrington.github.io/2022_NComms/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://stevenerrington.github.io/2022_NComms/</guid>
+      <description>This paper describes signals in the Supplementary Eye Field that are modulated after successful response inhibition. We describe the properties of these neurons across cortical layers, and how these signals relate to event-related potentials recorded over the scalp.</description>
+    </item>
+    
+    <item>
+      <title>D2-Like Receptor Expression in the Hippocampus and Amygdala Informs Performance on the Stop-Signal Task in Parkinson&#39;s Disease</title>
+      <link>http://stevenerrington.github.io/2021_JNeurosci/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://stevenerrington.github.io/2021_JNeurosci/</guid>
+      <description>While Parkinson&amp;rsquo;s disease (PD) is characteristically recognized for its motor symptoms, some patients develop impulsive and compulsive behaviors (ICBs), manifested as repetitive and excessive participation in reward-driven activities, including sex, gambling, shopping, eating, and hobbyism. Such cognitive alterations compel a consideration of response inhibition in PD. To investigate inhibitory control and assess the brain regions that may participate, we assessed PD patients using a single-blinded d-amphetamine (dAMPH) study, with [18F]fallypride positron emission topography (PET) imaging, and stop-signal task performance. We find a negative relationship between D2-like binding in the mesial temporal region and top-signal reaction time (SSRT), with greater BPND associated with a faster SSRT. These discoveries indicate a novel role for mesolimbic dopamine in response inhibition, and advocate for limbic regulation of action control in this clinical population.</description>
+    </item>
+    
+    <item>
+      <title>Dissociation of medial frontal β-bursts and executive control</title>
+      <link>http://stevenerrington.github.io/2020_JNeurosci/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://stevenerrington.github.io/2020_JNeurosci/</guid>
+      <description>The finding of increased β-bursting over medial frontal cortex with movement cancellation in humans is difficult to reconcile with the finding of modulation too late to contribute to movement cancellation in medial frontal cortex of macaque monkeys. To obtain comparable measurement scales, we recorded electroencephalogram (EEG) over medial frontal cortex of macaques performing a stop signal (countermanding) task. We replicated the occurrence and modulation of β-bursts associated with the cancellation of movements, but we found that β-bursts occur too infrequently to account for observed stopping behavior. Unfortunately, this finding raises doubts whether β-bursts can be a causal mechanism of response inhibition, which impacts future applications in devices such as brain-machine interfaces.</description>
+    </item>
+    
+    <item>
+      <title>Express saccades during a countermanding task</title>
+      <link>http://stevenerrington.github.io/2020_JNeurophys/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://stevenerrington.github.io/2020_JNeurophys/</guid>
+      <description>A serendipitous discovery that macaque monkeys produce express saccades under conditions that should discourage them reveals how cognitive control can adapt behavior to maximize reward.</description>
+    </item>
+    
+  </channel>
+</rss>
