@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>Minimalist LaTeX Template for Academic Presentations</title>
-      <link>http://stevenerrington.github.io/d1/</link>
-      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://stevenerrington.github.io/d1/</guid>
-      <description>This template produces a minimalist academic presentation with LaTeX Beamer.</description>
-    </item>
-    
-    <item>
       <title>Functional architecture of executive control and associated event-related potentials in macaques</title>
       <link>http://stevenerrington.github.io/2022_NComms/</link>
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
@@ -59,15 +50,6 @@
       
       <guid>http://stevenerrington.github.io/2020_JNeurophys/</guid>
       <description>A serendipitous discovery that macaque monkeys produce express saccades under conditions that should discourage them reveals how cognitive control can adapt behavior to maximize reward.</description>
-    </item>
-    
-    <item>
-      <title>Office Hours</title>
-      <link>http://stevenerrington.github.io/officehours/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://stevenerrington.github.io/officehours/</guid>
-      <description>Schedule and location for my office hours at the University of California, Santa Cruz.</description>
     </item>
     
   </channel>
