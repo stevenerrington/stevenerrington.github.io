@@ -17,10 +17,10 @@ editPost:
 
 ---
 
-##### Download
+##### Links
 
-- [Paper](XXX)
-- [Code and data](XXX)
+- [Paper](https://journals.physiology.org/doi/full/10.1152/jn.00365.2020)
+- [Code and data](https://osf.io/hw263/)
 
 ---
 

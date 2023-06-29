@@ -17,11 +17,11 @@ editPost:
 
 ---
 
-##### Download
+##### Links
 
-- [Paper](2022_NComms_Paper.pdf)
-- [Online appendix](2022_NComms_SI.pdf)
-- [Review](2022_NComms_Review.pdf)
+- [Paper](https://www.nature.com/articles/s41467-022-33942-1)
+- [Online appendix](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-022-33942-1/MediaObjects/41467_2022_33942_MOESM1_ESM.pdf)
+- [Review](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-022-33942-1/MediaObjects/41467_2022_33942_MOESM2_ESM.pdf)
 - [Code and data](https://osf.io/3rzjx/)
 
 ---

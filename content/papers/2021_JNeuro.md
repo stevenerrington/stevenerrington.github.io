@@ -18,10 +18,9 @@ editPost:
 
 ---
 
-##### Download
+##### Links
 
-- [Paper](XXX)
-- [Code and data](XXX)
+- [Paper](https://www.jneurosci.org/content/41/48/10023.abstract)
 
 ---
 

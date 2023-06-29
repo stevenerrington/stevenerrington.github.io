@@ -18,10 +18,10 @@ editPost:
 
 ---
 
-##### Download
+##### Links
 
-- [Paper](XXX)
-- [Code and data](XXX)
+- [Paper](https://www.jneurosci.org/content/40/48/9272.abstract)
+- [Code and data](https://osf.io/wh5sd/)
 
 ---
 
