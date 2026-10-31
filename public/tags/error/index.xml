@@ -6,7 +6,16 @@
     <description>Recent content in error on Steven Errington</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://stevenerrington.github.io/tags/error/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://stevenerrington.github.io/tags/error/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cortical origin of theta error signals</title>
+      <link>http://stevenerrington.github.io/2023_CerCor/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://stevenerrington.github.io/2023_CerCor/</guid>
+      <description>Using a multi-scale biophysical model of the macaque supplementary eye field, this paper identifies the cellular origins of the error-related negativity and its theta rhythm, linking laminar current sources to the error-related negativity and the post-error positivity.</description>
+    </item>
+    
     <item>
       <title>Neurophysiological mechanisms of error monitoring in human and non-human primates</title>
       <link>http://stevenerrington.github.io/2023_NRN/</link>

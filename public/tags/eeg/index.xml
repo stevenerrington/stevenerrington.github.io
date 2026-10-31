@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>EEG on Steven Errington</title>
+    <link>http://stevenerrington.github.io/tags/eeg/</link>
+    <description>Recent content in EEG on Steven Errington</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://stevenerrington.github.io/tags/eeg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frontocentral neural dynamics reflect decisions about when to act</title>
+      <link>http://stevenerrington.github.io/2025_JNeurosci/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://stevenerrington.github.io/2025_JNeurosci/</guid>
+      <description>A review in the Journal of Neuroscience on how frontocentral neural dynamics reflect decisions about when to act.</description>
+    </item>
+    
+    <item>
+      <title>A preparatory cranial potential for saccadic eye movements in macaque monkeys</title>
+      <link>http://stevenerrington.github.io/2025_eNeuro/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://stevenerrington.github.io/2025_eNeuro/</guid>
+      <description>We describe a lateralized readiness potential recorded over frontolateral cortex of macaques before saccades. The potential parallels saccade-related spiking in the frontal eye field, but does not distinguish between generating and inhibiting a saccade.</description>
+    </item>
+    
+  </channel>
+</rss>

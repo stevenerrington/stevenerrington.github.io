@@ -6,7 +6,25 @@
     <description>Recent content in medial frontal cortex on Steven Errington</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://stevenerrington.github.io/tags/medial-frontal-cortex/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://stevenerrington.github.io/tags/medial-frontal-cortex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laminar architecture of visual and auditory responses in the supplementary eye field of macaques</title>
+      <link>http://stevenerrington.github.io/2026_CerCor/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://stevenerrington.github.io/2026_CerCor/</guid>
+      <description>Using linear electrode arrays in and around the supplementary eye field, this paper compares the prevalence, latency and laminar organization of visual and auditory responses across pyramidal neurons and interneurons.</description>
+    </item>
+    
+    <item>
+      <title>Cortical origin of theta error signals</title>
+      <link>http://stevenerrington.github.io/2023_CerCor/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://stevenerrington.github.io/2023_CerCor/</guid>
+      <description>Using a multi-scale biophysical model of the macaque supplementary eye field, this paper identifies the cellular origins of the error-related negativity and its theta rhythm, linking laminar current sources to the error-related negativity and the post-error positivity.</description>
+    </item>
+    
     <item>
       <title>Neurophysiological mechanisms of error monitoring in human and non-human primates</title>
       <link>http://stevenerrington.github.io/2023_NRN/</link>

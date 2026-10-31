@@ -5,7 +5,7 @@ description: "About"
 
 ## About me
 
-Hello! I'm Steven - I'm currently a Postdoctoral Research Associate in the [Cognitive and Translational Neuroscience](https://research.ncl.ac.uk/ctn/) lab - part of the Biosciences Institute at Newcastle University. 
+Hello! I'm Steven - I'm currently a Research Associate (Neural Circuits) in the [Cognitive and Translational Neuroscience](https://research.ncl.ac.uk/ctn/) lab - part of the Biosciences Institute at Newcastle University. 
 
 
 ##### Academic background

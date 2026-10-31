@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>laminar on Steven Errington</title>
+    <link>http://stevenerrington.github.io/tags/laminar/</link>
+    <description>Recent content in laminar on Steven Errington</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://stevenerrington.github.io/tags/laminar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laminar architecture of visual and auditory responses in the supplementary eye field of macaques</title>
+      <link>http://stevenerrington.github.io/2026_CerCor/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://stevenerrington.github.io/2026_CerCor/</guid>
+      <description>Using linear electrode arrays in and around the supplementary eye field, this paper compares the prevalence, latency and laminar organization of visual and auditory responses across pyramidal neurons and interneurons.</description>
+    </item>
+    
+  </channel>
+</rss>
