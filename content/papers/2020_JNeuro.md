@@ -6,10 +6,10 @@ aliases:
 tags: ["medial frontal cortex","stopping","beta"]
 author: "Steven P. Errington, Geoffrey F. Woodman, & Jeffrey D. Schall"
 description: ""
-summary: "The finding of increased β-bursting over medial frontal cortex with movement cancellation in humans is difficult to reconcile with the finding of modulation too late to contribute to movement cancellation in medial frontal cortex of macaque monkeys. To obtain comparable measurement scales, we recorded electroencephalogram (EEG) over medial frontal cortex of macaques performing a stop signal (countermanding) task. We replicated the occurrence and modulation of β-bursts associated with the cancellation of movements, but we found that β-bursts occur too infrequently to account for observed stopping behavior. Unfortunately, this finding raises doubts whether β-bursts can be a causal mechanism of response inhibition, which impacts future applications in devices such as brain-machine interfaces."
+summary: "Recording EEG over medial frontal cortex of macaques performing a stop-signal task, we replicated the β-bursts seen in humans when movements are cancelled, but found they occur too infrequently to account for stopping behaviour. This raises doubts about whether β-bursts are a causal mechanism of response inhibition."
 cover:
     image: "/1.png"
-    alt: "Rationing and frictional unemployment in the United States, 1964–2009"
+    alt: ""
     relative: false
 editPost:
     URL: "https://www.jneurosci.org/content/40/48/9272.abstract"

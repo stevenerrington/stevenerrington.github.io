@@ -9,7 +9,7 @@ description: "This paper describes signals in the Supplementary Eye Field that a
 summary: "This paper describes signals in the Supplementary Eye Field that are modulated after successful response inhibition. We describe the properties of these neurons across cortical layers, and how these signals relate to event-related potentials recorded over the scalp." 
 cover:
     image: "/1.png"
-    alt: "Rationing and frictional unemployment in the United States, 1964–2009"
+    alt: ""
     relative: false
 editPost:
     URL: "https://www.nature.com/articles/s41467-022-33942-1"

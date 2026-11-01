@@ -6,10 +6,10 @@ aliases:
 tags: ["stopping","dopamine","Parkinson's disease"]
 author: "Leah G. Mann, Kaitlyn R. Hay, Alexander K. Song, Steven P. Errington, Paula Trujillo, David H. Zald, Yan Yan, Hakmook Kang, Gordon D. Logan, & Daniel O Claassen"
 description: ""
-summary: "While Parkinson's disease (PD) is characteristically recognized for its motor symptoms, some patients develop impulsive and compulsive behaviors (ICBs), manifested as repetitive and excessive participation in reward-driven activities, including sex, gambling, shopping, eating, and hobbyism. Such cognitive alterations compel a consideration of response inhibition in PD. To investigate inhibitory control and assess the brain regions that may participate, we assessed PD patients using a single-blinded d-amphetamine (dAMPH) study, with [18F]fallypride positron emission topography (PET) imaging, and stop-signal task performance. We find a negative relationship between D2-like binding in the mesial temporal region and top-signal reaction time (SSRT), with greater BPND associated with a faster SSRT. These discoveries indicate a novel role for mesolimbic dopamine in response inhibition, and advocate for limbic regulation of action control in this clinical population."
+summary: "Using PET imaging and a stop-signal task in patients with Parkinson's disease, we found that greater D2-like receptor binding in the hippocampus and amygdala was associated with faster stopping, pointing to a role for mesolimbic dopamine in response inhibition."
 cover:
     image: "/1.png"
-    alt: "Rationing and frictional unemployment in the United States, 1964–2009"
+    alt: ""
     relative: false
 editPost:
     URL: "https://www.jneurosci.org/content/41/48/10023.abstract"

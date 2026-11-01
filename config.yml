@@ -1,4 +1,4 @@
-baseURL: "http://stevenerrington.github.io/" 
+baseURL: "https://stevenerrington.github.io/" 
 title: Steven Errington
 paginate: 20
 theme: PaperMod
@@ -59,7 +59,7 @@ params:
            <br><br>In Yuki Kikuchi's lab at Newcastle, my research focuses on the brain's process of perceptual inference, which involves generating predictions about the sensory world and is crucial for sensation, cognition, decision-making, and action. Rodent and primate models have given us important insights into how the brain processes sensory information and detects changes. However, we still don't fully understand how different brain circuits work together for these tasks, especially how top-down predictions from higher brain areas interact with incoming sensory information. My work aims to address this through combining behavioral studies in non-human primates with single-unit recordings, high-channel laminar electrophysiology across multiple brain regions, and optogenetic manipulations. This work is currently supported by a Brain & Behavior Research Foundation Young Investigator Award (2026–2027) to study the cortical microcircuitry of expectancy violations.
            <br><br> Prior to joining the Kikuchi Lab, I completed my PhD in the Schall Lab at Vanderbilt University where I looked to understand how the medial frontal cortex signaled cognitive control processes that occur during our interactions with the environment (i.e. whether we made an error, whether we experienced conflicting plans, etc…); these signals are vital for allowing us to learn from the outcomes of our actions within the world. I then went on to complete my first postdoctoral role in Ilya Monosov's lab at WUSTL where I examined how neurons in the basal forebrain contribute to the detection and resolution of uncertainty about expected future outcomes - signals that are vital for allowing us to prepare and adapt our behavior in response to changing circumstances.
            <br><br>
-          **Keywords**: cognitive control, statistical learning, action, prediction, neurophysiology, learning <br><br>" 
+          **Keywords**: timing, sequence learning, predictive coding, cognitive control, decision-making, laminar neurophysiology <br><br>" 
 
           imageUrl: "/headshot_photo.jpeg"
           imageWidth: 170

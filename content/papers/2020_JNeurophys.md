@@ -9,7 +9,7 @@ description: ""
 summary: "A serendipitous discovery that macaque monkeys produce express saccades under conditions that should discourage them reveals how cognitive control can adapt behavior to maximize reward."
 cover:
     image: "/1.png"
-    alt: "Rationing and frictional unemployment in the United States, 1964–2009"
+    alt: ""
     relative: false
 editPost:
     URL: "https://journals.physiology.org/doi/full/10.1152/jn.00365.2020"
